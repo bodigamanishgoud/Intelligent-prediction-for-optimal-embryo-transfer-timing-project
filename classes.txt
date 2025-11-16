@@ -1,0 +1,5 @@
+%%writefile classes.txt
+# Classes for Embryo Viability Prediction
+Pre-Receptive 
+Receptive 
+Post-Receptive
